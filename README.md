@@ -1,6 +1,6 @@
 <!-- Banner neón -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff9c,100:0d1117&height=180&section=header&text=Luis%20%C3%81ngel%20Barrera&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Android%20%26%20Backend%20Developer&descAlignY=60&descSize=18" alt="banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff9c,100:0d1117&height=180&section=header&text=Luis%20Angel%20Barrera&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Android%20and%20Backend%20Developer&descAlignY=60&descSize=18" alt="banner" />
 </p>
 
 <p align="center">
